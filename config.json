@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithms-search-and-sort",
+      "title": "Algorithms — Recherche et Tri",
+      "description": "Implémenter et comparer algorithmes de recherche et de tri en Python.",
+      "path": "assignments/algorithms-search-and-sort",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
